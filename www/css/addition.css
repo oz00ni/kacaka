@@ -1,0 +1,39 @@
+/* --------------------追加画面-------------------- */
+
+#addition_nav {
+    font-size: 24px;
+    width: 100%;
+    text-align: center;
+    font-weight: bold;
+    
+    background-color: skyblue;
+}
+
+#addition_nav ul {
+    list-style: none;
+}
+
+#addition_nav ul li {
+    display: inline-block;
+    margin-top: 5%;
+    width: 90%;
+    line-height: 500%;
+}
+
+#camera {
+    background-color: red;
+}
+
+#word {
+    background-color: blue;
+}
+
+#original {
+    background-color: green;
+}
+
+#addition_nav ul li a {
+    display:block;
+}
+
+/* --------------------追加画面-------------------- */
